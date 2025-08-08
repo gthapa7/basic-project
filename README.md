@@ -2,6 +2,8 @@ This repository contains a collection of Python coding challenges and simple pro
 
 🧠 Basic algorithm problems
 
+- Data visualization
+
 🔄 Loop and condition exercises
 
 📊 Simple data analysis tasks
